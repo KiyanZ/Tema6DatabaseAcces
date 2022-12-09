@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc4f02b4-e3ff-436b-b74d-02131899a8d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/db4o_8_0_276_16149_all_java5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Empleats.db4o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rutes.db4o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rutes.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema6DatabaseAcces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classesEmpleat/Adreca.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classesEmpleat/Empleat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classesEmpleat/Telefon.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exemples/Exemple1_1_InserirMesEmpleats.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exemples/Exemple1_InserirEmpleat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exemples/Exemple2_ConsultaUnEmpleat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exemples/Exemple3_EsborratDefectuos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exemples/Exemple4_EsborratCorrecte.kt:.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exemples/Exemple5_ModificarCascada.kt :.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicis/Ex3_PassarRutaSqliteDB4O.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicis/Ex4_VisRutes_DB4O.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicis/util.bd/GestionarRutesBD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exercicis/util.bd/RouteClasses.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IEaMnWgQj68agLSBXoDBRfvCFH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/INFORMATICA/alu10467008/Escriptori/jars/sqlite-jdbc-3.39.3.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/util.bd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Ex4_VisRutes_DB4OKt">
+    <configuration name="Ex4_VisRutes_DB4OKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicis.Ex4_VisRutes_DB4OKt" />
+      <module name="Tema6DatabaseAcces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemple2_ConsultaUnEmpleatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemples.Exemple2_ConsultaUnEmpleatKt" />
+      <module name="Tema6DatabaseAcces" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ex4_VisRutes_DB4OKt" />
+        <item itemvalue="Kotlin.Exemple2_ConsultaUnEmpleatKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc4f02b4-e3ff-436b-b74d-02131899a8d6" name="Changes" comment="" />
+      <created>1669749153185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669749153185</updated>
+      <workItem from="1669749154452" duration="2372000" />
+      <workItem from="1669830861157" duration="48000" />
+      <workItem from="1669832875405" duration="3368000" />
+      <workItem from="1669994429498" duration="2681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
